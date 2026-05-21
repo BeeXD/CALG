@@ -1,0 +1,252 @@
+[
+  {
+    "id": "CN",
+    "name": "Computer Networks",
+    "credits": 4,
+    "assessments": [
+      {
+        "id": "see",
+        "name": "SEE",
+        "count": 1,
+        "maxMarks": 100,
+        "weightage": 50,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "cie",
+        "name": "CIE",
+        "count": 2,
+        "maxMarks": 40,
+        "weightage": 20,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "aat",
+        "name": "AAT & Quiz",
+        "count": 1,
+        "maxMarks": 10,
+        "weightage": 5,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "lab",
+        "name": "LAB",
+        "count": 1,
+        "maxMarks": 25,
+        "weightage": 25,
+        "combineMethod": "sum"
+      }
+    ]
+  },
+  {
+    "id": "DAA",
+    "name": "Design & Analysis of Algorithm",
+    "credits": 4,
+    "assessments": [
+      {
+        "id": "see",
+        "name": "SEE",
+        "count": 1,
+        "maxMarks": 100,
+        "weightage": 50,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "cie",
+        "name": "CIE",
+        "count": 2,
+        "maxMarks": 40,
+        "weightage": 20,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "aat",
+        "name": "AAT & Quiz",
+        "count": 1,
+        "maxMarks": 10,
+        "weightage": 5,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "lab",
+        "name": "LAB",
+        "count": 1,
+        "maxMarks": 25,
+        "weightage": 25,
+        "combineMethod": "sum"
+      }
+    ]
+  },
+
+  {
+    "id": "ToC",
+    "name": "Theorotical of Computation",
+    "credits": 3,
+    "assessments": [
+      {
+        "id": "see",
+        "name": "SEE",
+        "count": 1,
+        "maxMarks": 100,
+        "weightage": 50,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "cie",
+        "name": "CIE",
+        "count": 2,
+        "maxMarks": 40,
+        "weightage": 40,
+        "combineMethod": "average"
+      },
+      {
+        "id": "aat",
+        "name": "AAT & Quiz",
+        "count": 1,
+        "maxMarks": 10,
+        "weightage": 10,
+        "combineMethod": "sum"
+      }
+    ]
+  },
+  {
+    "id": "IoT",
+    "name": "Internet of Things",
+    "credits": 3,
+    "assessments": [
+      {
+        "id": "see",
+        "name": "SEE",
+        "count": 1,
+        "maxMarks": 100,
+        "weightage": 50,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "cie",
+        "name": "CIE",
+        "count": 2,
+        "maxMarks": 40,
+        "weightage": 40,
+        "combineMethod": "average"
+      },
+      {
+        "id": "aat",
+        "name": "AAT & Quiz",
+        "count": 1,
+        "maxMarks": 10,
+        "weightage": 10,
+        "combineMethod": "sum"
+      }
+    ]
+  },
+  {
+    "id": "OS",
+    "name": "Operating Systems",
+    "credits": 3,
+    "assessments": [
+      {
+        "id": "see",
+        "name": "SEE",
+        "count": 1,
+        "maxMarks": 100,
+        "weightage": 50,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "cie",
+        "name": "CIE",
+        "count": 2,
+        "maxMarks": 40,
+        "weightage": 40,
+        "combineMethod": "average"
+      },
+      {
+        "id": "aat",
+        "name": "AAT & Quiz",
+        "count": 1,
+        "maxMarks": 10,
+        "weightage": 10,
+        "combineMethod": "sum"
+      }
+    ]
+  },
+
+  {
+    "id": "LAO",
+    "name": "Linerar Algebra & Optimization",
+    "credits": 3,
+    "assessments": [
+      {
+        "id": "see",
+        "name": "SEE",
+        "count": 1,
+        "maxMarks": 100,
+        "weightage": 50,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "cie",
+        "name": "CIE",
+        "count": 2,
+        "maxMarks": 40,
+        "weightage": 40,
+        "combineMethod": "average"
+      },
+      {
+        "id": "aat",
+        "name": "AAT & Quiz",
+        "count": 1,
+        "maxMarks": 10,
+        "weightage": 10,
+        "combineMethod": "sum"
+      }
+    ]
+  },
+  {
+    "id": "hid",
+    "name": "Hardware Interface Design",
+    "credits": 1,
+    "assessments": [
+      {
+        "id": "see",
+        "name": "SEE",
+        "count": 1,
+        "maxMarks": 100,
+        "weightage": 50,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "cie",
+        "name": "CIE",
+        "count": 1,
+        "maxMarks": 50,
+        "weightage": 50,
+        "combineMethod": "average"
+      }
+    ]
+  },
+  {
+    "id": "NPT",
+    "name": "NPTEL Course",
+    "credits": 1,
+    "assessments": [
+      {
+        "id": "see",
+        "name": "SEE",
+        "count": 1,
+        "maxMarks": 75,
+        "weightage": 50,
+        "combineMethod": "sum"
+      },
+      {
+        "id": "ass",
+        "name": "Assignment",
+        "count": 1,
+        "maxMarks": 25,
+        "weightage": 50,
+        "combineMethod": "sum"
+      }
+    ]
+  }
+]
